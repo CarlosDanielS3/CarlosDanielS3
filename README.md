@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos Daniel!
+### Hi! I'm Carlos Daniel!
 
 
 🔭 Today i'm working as a backend developer
