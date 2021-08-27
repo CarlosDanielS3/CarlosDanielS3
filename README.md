@@ -2,7 +2,7 @@
 
 
 🔭 Today i'm working as a backend developer
-🌱 i'm studyng java/spring boot and node/react.
+🌱 i'm studyng java/spring boot and node/nest.
  <div>
   <a href="https://github.com/CarlosDanielS3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=NightOwl&include_all_commits=true&count_private=true"/>
