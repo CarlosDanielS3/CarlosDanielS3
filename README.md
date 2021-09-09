@@ -7,7 +7,6 @@
   <a href="https://github.com/CarlosDanielS3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=NightOwl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielS3&layout=compact&langs_count=7&theme=NightOwl"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosDanielS3&layout=compact&langs_count=7&theme=NightOwl"/>
   
    
 </div>
