@@ -1,8 +1,8 @@
 ### Hi! I'm Carlos Daniel!
 
 
-🔭 Today i'm working as a full stack developer
-🌱 i'm studyng deeply elasticsearch and AWS.
+🔭 Today i'm working as a backend developer
+🌱 i'm studyng deeply AWS.
  <div>
   <a href="https://github.com/CarlosDanielS3">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=NightOwl&include_all_commits=true&count_private=true"/>
