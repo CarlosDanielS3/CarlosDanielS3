@@ -1,35 +1,31 @@
-### Hi! I'm Carlos Daniel!
+### Hi there! I'm Carlos Daniel 👋  
 
+🚀 **Backend Developer | Node.js & AWS Expert**  
+🌍 Looking for an **international opportunity**  
+🦅 Passionate **tech learner** & **scalable infrastructure builder**  
 
-🔭 Today i'm working as a backend developer
-🌱 i'm studyng deeply AWS.
- <div>
+---
+
+### 💡 About Me  
+
+- 🔹 I specialize in **Node.js** and **AWS**, crafting high-performance, scalable backends that drive business value.  
+- 🔹 If you're looking to build a robust backend infrastructure, feel free to **reach out!**  
+- 🔹 My public repositories **don’t reflect everything I’ve worked on**, as most of my projects are private, developed for companies using various Git tools like **GitLab, Bitbucket, CodeCommit**, and more.  
+
+---
+
+### 📊 GitHub Stats  
+
+<div>
   <a href="https://github.com/CarlosDanielS3">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=NightOwl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielS3&layout=compact&langs_count=7&theme=NightOwl"/>
-  
-   
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Carlos-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Carlos-docker" height="30" width="40" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-docker-logo.png">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielS3&layout=compact&langs_count=7&theme=nightowl"/>
+  </a>
+</div>  
 
-  ##
- 
-<div> 
-  <a href = "mailto:koerichgordon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-santos-engineer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+---
 
- 
-</div>
+### 📫 Connect with Me  
 
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koerichgordon@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santos-engineer/)  
