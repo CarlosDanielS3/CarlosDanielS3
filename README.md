@@ -36,12 +36,6 @@
 
 > **Note**: My public repositories do not reflect my full professional experience, as most of my work is hosted on private enterprise platforms like **GitLab, Bitbucket, and AWS CodeCommit**.
 
-<div>
-  <a href="https://github.com/CarlosDanielS3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosDanielS3&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielS3&layout=compact&langs_count=7&theme=nightowl"/>
-  </a>
-</div>
 
 ---
 
